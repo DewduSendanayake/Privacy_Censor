@@ -14,8 +14,9 @@ A lightweight desktop application built with **OpenCV** and **Tkinter** that cap
 
 ## 🎯 Demo
 
-> *[Insert screenshot or GIF of the GUI with a blurred face.]*
-
+<p align="center">
+  <img src="Censored image.png" alt="UI Screenshot" width="400"/>
+</p>
 
 
 ## ✨ Future Improvements
