@@ -1,4 +1,4 @@
-# Privacy Censor Bot 🧻
+# Privacy Censor Bot 📸
 
 A lightweight desktop application built with **OpenCV** and **Tkinter** that captures real-time webcam video, detects faces, and applies a customizable Gaussian blur to censor them. Perfect for privacy-conscious environments like classrooms, virtual meetings, or public camera feeds.
 
