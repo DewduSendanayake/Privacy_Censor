@@ -14,7 +14,7 @@ A lightweight desktop application built with **OpenCV** and **Tkinter** that cap
 
 ## 🎯 Demo
 
-<p align="center">
+<p align="left">
   <img src="Censored image.png" alt="UI Screenshot" width="200"/>
 </p>
 
